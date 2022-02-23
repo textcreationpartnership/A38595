@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The abridgement of a sermon preached on the fast-day appointed to be held for the good successe of the treatie that was shortly to ensue between the King and the Parliament, Septemb. 12, 1648 by Mr. Despagne ... ; faithfully translated into English by Umfrevile, Gent.</title>
+            <title>Abbrégé d'un sermon prononcé au jour de jusne indict sur le sujet du traitté futur entre le roy et le Parlement, le 12 de septembre 1648. English</title>
+            <author>Espagne, Jean d', 1591-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38595</idno>
+            <idno type="STC">Wing E3254</idno>
+            <idno type="STC">ESTC R20881</idno>
+            <idno type="EEBO-CITATION">12404855</idno>
+            <idno type="OCLC">ocm 12404855</idno>
+            <idno type="VID">61351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 276:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The abridgement of a sermon preached on the fast-day appointed to be held for the good successe of the treatie that was shortly to ensue between the King and the Parliament, Septemb. 12, 1648 by Mr. Despagne ... ; faithfully translated into English by Umfrevile, Gent.</title>
+                  <title>Abbrégé d'un sermon prononcé au jour de jusne indict sur le sujet du traitté futur entre le roy et le Parlement, le 12 de septembre 1648. English</title>
+                  <author>Espagne, Jean d', 1591-1659.</author>
+                  <author>Umfrevile, William.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ruth Raworth for Tho. Whitaker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fast-day sermons.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61351:1"/>
+            <pb facs="tcp:61351:1" rendition="simple:additions"/>
+            <p>The Abridgement OF A SERMON Preached on the Faſt-day ap<g ref="char:EOLhyphen"/>pointed to be held for the good ſucceſſe of the TREATIE That was ſhortly to enſue be<g ref="char:EOLhyphen"/>tween the KING and the PARLIAMENT, <hi>Septemb.</hi> 12. 1648.</p>
+            <p>By M<hi rend="sup">r</hi> 
+               <hi>Deſpagne</hi> Miniſter of the Goſpel at the French Church at <hi>Durham</hi>-houſe.</p>
+            <p>Faithfully tranſlated into Engliſh By <hi>Umfrevile,</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Ruth Raworth</hi> for <hi>Tho. Whi<g ref="char:EOLhyphen"/>taker</hi> at the Kings Arms in <hi>Paul's</hi> Church-yard. 1648.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:61351:2"/>
+            <pb facs="tcp:61351:2"/>
+            <head>Mr. <hi>John Deſpagne's</hi> Advertiſement to the Reader, ſhewing the reaſon why bee abridged his Sermon, and puts it not forth as large in Print, as he delivered it to his Audience.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Set not downe here all I ſaid on the follow<g ref="char:EOLhyphen"/>ing Text, but onely a ſhort Sum of the chief heads, and rather the Applica<g ref="char:EOLhyphen"/>tion in very deed, then the Ex<g ref="char:EOLhyphen"/>plication of it: For I hold it more profitable to read Sermons ſhortened, and brought into a ſmall compaſſe, then long-winded,
+<pb facs="tcp:61351:3"/>and tedious Diſcour<g ref="char:EOLhyphen"/>ſes; in which a man oftentimes muſt ſpend much time, and tumble over a whole mountain of Sand, before hee can there finde one grain of Gold.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:61351:3"/>
+            <epigraph>
+               <bibl>The TEXT, 2 Sam. 5.1, 2, 3.</bibl>
+               <q>Then came all the Tribes of <hi>Iſrael</hi> to <hi>David</hi> unto <hi>Hebron,</hi> and ſpake, ſaying, Be<g ref="char:EOLhyphen"/>hold, we are thy bone, and thy fleſh. Al<g ref="char:EOLhyphen"/>ſo in time paſt, when <hi>Saul</hi> was King o<g ref="char:EOLhyphen"/>ver us, thou waſt be that leddeſt out, and broughteſt in <hi>Iſrael:</hi> and the Lord ſaid to thee, Thou ſhalt feed my people <hi>Iſrael,</hi> and thou ſhalt be a Captain over <hi>Iſrael.</hi> So all the Elders of <hi>Iſrael</hi> came to the King to <hi>Hebron,</hi> and King <hi>David</hi> made a league with them in <hi>Hebron</hi> be<g ref="char:EOLhyphen"/>fore the Lord.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Ere's an Agreement ſworn between <hi>David</hi> and the States of his Realm, af<g ref="char:EOLhyphen"/>ter a Civil War of ſeven yeers continuance: Ours
+<pb n="6" facs="tcp:61351:4"/>is now come to its ſeventh yeer; God grant it may be the laſt: and that ha<g ref="char:EOLhyphen"/>ving ſo long a time implored the God of Battels, wee may at length give thanks unto the God of Peace. Let not any make here ſiniſter interpreta<g ref="char:EOLhyphen"/>tions: The Hiſtory that I have cho<g ref="char:EOLhyphen"/>ſen to be the ſubject of this Diſcouſe is not directly in and throughout ap<g ref="char:EOLhyphen"/>plicable unto the preſent ſtate of our condition. But what though our War both in its cauſes and ſucceſſe hath been far different from that which fell between <hi>David</hi> and <hi>Iſrael,</hi> yet is there great conformity in other matters, which I forbear to ſpeak of.</p>
+            <p>So then, the Tribes of <hi>Iſrael</hi> ſent toward <hi>David,</hi> and treat with him a<g ref="char:EOLhyphen"/>bout the conditions on which he ſhall reign over them. Not to enter into the particularities of this Text; let us ſpeak onely of the demands, promiſes and agreements that paſt on the one ſide and the other: and this will afford us two Points, on the which at this time I will onely inſiſt. 1. <hi>David</hi>'s
+<pb n="7" facs="tcp:61351:4"/>duty, and in generall that of all Kings. 2. The People's duty toward their Kings, and toward themſelves.</p>
+            <div n="1" type="part">
+               <head>Of the first.</head>
+               <p>What Conditions were then impo<g ref="char:EOLhyphen"/>ſed upon <hi>David?</hi> Queſtionleſſe, thoſe that God had expreſt in his Law <hi>Deut.</hi> 17. There are five Articles whereun<g ref="char:EOLhyphen"/>to the Law bound the Kings of <hi>Iſrael.</hi> 1. That they ſhould leavie no great Cavalry: the reaſon of that was to hinder them from holding correſpon<g ref="char:EOLhyphen"/>dence with <hi>Egypt</hi> their Neighbour; or elſe that they might have no minde to make war there, for revenge of the wrong their fore-fathers had received from the Egyptians. 2. That they ſhould not have plurality of Wives: The end of that was to prevent ſeduce<g ref="char:EOLhyphen"/>ments, and other miſchiefs that Po<g ref="char:EOLhyphen"/>lygamy hath often produced. 3. To make no extraordinary hoarding up of Gold and Silver: that was to the end they ſhould not put their confi<g ref="char:EOLhyphen"/>dence in their treaſures. 4. To have
+<pb n="8" facs="tcp:61351:5"/>a tranſcript of the Law ever by them, and daily to ſtudy it: This was that they might learn to govern according to the contents of it. 5. Not to carry themſelves over-high towards their Subjects; but to remember that they were their Brethren.</p>
+               <p>But did <hi>David</hi> obſerve all this? Hee committed five notorious faults after his eſtabliſhment over all the Tribes. 1. Although he had Wives enow before, yet then he recruited the number; which was accordingly leſ<g ref="char:EOLhyphen"/>ſened by reaſon of the prodigious in<g ref="char:EOLhyphen"/>ceſt of his own Son <hi>Abſolom,</hi> which en<g ref="char:EOLhyphen"/>forced <hi>David</hi> to forbear the company of ten of his Concubines. 2. He gave way that the Ark of God, which hee cauſed to be conducted toward Sion, ſhould be put into a Cart, and drawn by Oxen; which was an exceeding great overſight: For the Law ordered that the Prieſts or Levites ſhould carry the Ark on their ſhoulders. 3. Hee contrived that horrible act againſt poor <hi>Uriab:</hi> which was rather an accu<g ref="char:EOLhyphen"/>mulation,
+<pb n="9" facs="tcp:61351:5"/>and knot of many crimes to<g ref="char:EOLhyphen"/>gether. 4. He plundered and ſpoiled the innocent <hi>Mephiboſheth</hi> (Son of his deer friend <hi>Jonathan</hi>) without ever hearing the matter: and even after<g ref="char:EOLhyphen"/>ward, although he had acknowledged the injuſtice of that raſh ſentence his own credulity had drawn out of his mouth; yet he revoked it but in part. 5. And laſtly, Without any other mo<g ref="char:EOLhyphen"/>tives, ſave thoſe of his own pride, hee cauſed the people to be numbered, and drew upon his Kingdom a Plague that in three dayes ſwept away threeſcore and ten thouſand men. Where ſhall wee finde the Throne that is cleer of taint or ſpot? Where ſhall wee finde (in what kinde of Government ſoever it be) men wholly blameleſſe; ſeeing that he of whom God himſelf had made the choice, and with his own hand placed in the chair of State, was ſo irregular and extravagant? This notwithſtanding, the miſcarriages of the perſon were not of force for the a<g ref="char:EOLhyphen"/>boliſhing of his Office and Authori<g ref="char:EOLhyphen"/>tie
+<pb n="10" facs="tcp:61351:6"/>eſtabliſhed by God himſelfe.</p>
+               <p>'Tis a great marvel, if the head, yea of the ſtrongeſt brain, runs not round, that's promoted to ſo high a place. Of all the Kings that governed the ancient people of God, there are but three rec<g ref="char:EOLhyphen"/>koned that have not been faulty either in Idolatry, or ſome acceſſory of this crime: For, to ſay nothing of them that reigned over the ten Tribes, who were all ſoil'd with ſuch abominations, thoſe that ruled over the Kingdom of <hi>Judab</hi> to the number of 22 Kings (from <hi>Saul</hi> to <hi>Zedekiah</hi>) dipt and died them<g ref="char:EOLhyphen"/>ſelves in the like horrible Superſtitions: <hi>David, Ezekias</hi> and <hi>Joſiah</hi> onely ex<g ref="char:EOLhyphen"/>cepted; they would fain put <hi>Joſaphat</hi> into the number (making four) had it not been for the unfortunate League that he made with the idolatrous houſe of <hi>Ahab:</hi> But theſe very three (the beſt of the pack) have they not coſt their people dear? <hi>David</hi> (as I have already ſaid) was the occaſion of that wonder<g ref="char:EOLhyphen"/>ful mortality in <hi>Iſrael; Ezekias,</hi> through his pride and unthankfulneſſe, was the
+<pb n="11" facs="tcp:61351:6"/>cauſe that after his deceaſe all the trea<g ref="char:EOLhyphen"/>ſure of the Kingdom, and all the arms of his Magazine were carried away in<g ref="char:EOLhyphen"/>to <hi>Babylon.</hi> And <hi>Joſias,</hi> by a War un<g ref="char:EOLhyphen"/>dertaken without juſt grounds, cauſed the ſhedding of his peoples bloud, and made them tributary to the King of <hi>E<g ref="char:EOLhyphen"/>gypt:</hi> a fair warning for all Monarchs to take heed to their actions.</p>
+               <p>Hee that was the moſt wiſe, and the moſt fool among all the Kings, tels us in his wiſdom, <hi>Prov.</hi> 25.3. that there are three things not to be ſounded; <hi>viz.</hi> the height of heaven, the depth of the earth, and the breadth of the heart of Kings: His meaning is, that their knowledge, and the trouble requiſite to the attaining of it, ought to be (as it were) infinite, it being impoſſible to diſcry any bounds or meaſure of it: Though their mindes remain between heaven and earth, yet ſhould they en<g ref="char:EOLhyphen"/>deavour to be elevated as ſublime as the one, and likewiſe as profound as the other; yea, to lock within their di<g ref="char:EOLhyphen"/>menſions all this vaſt fabrick of the U<g ref="char:EOLhyphen"/>niverſe:
+<pb n="12" facs="tcp:61351:7"/>as they deſire to reſemble God in power and greatneſs, ought they not to be like him in wiſdom and un<g ref="char:EOLhyphen"/>derſtanding?</p>
+               <p>I ſpeak this not onely in regard of Princes; but alſo in reſpect of the Su<g ref="char:EOLhyphen"/>periorities and Powers which are ad<g ref="char:EOLhyphen"/>joyned unto them in the adminiſtration and managing of the Common-wealth; and who are or ſeem to be their colla<g ref="char:EOLhyphen"/>terals, and to ſhare ſome part in the So<g ref="char:EOLhyphen"/>veraignty: now if it ſo happen that theſe two Authorities juſtle one with another, and that there be conteſtation about Juriſdiction; the example of God himſelf obligeth both parties to ſurpaſs one another rather in wiſdome then ſtrength. See how this mighty God deals with them that oppoſe him; he puts them to the worſt rather by his wiſdom then his ſtrength. Should he ever uſe his might, would he not ruine them in a moment? but he takes more delight to overcome them by his wiſ<g ref="char:EOLhyphen"/>dom. And by reaſon that this power of his cannot be diſcerned by a multitude
+<pb n="13" facs="tcp:61351:7"/>of ſucceſſive events which require time, he forbears to imploy all his puiſſance againſt his adverſaries. To be brief; hee had rather be acknowledged wiſer then they, then to ſhew himſelf ſtrong<g ref="char:EOLhyphen"/>er then they.</p>
+               <p>Amidſt this ſtudy of wiſdome, let Kings alſo be mindful of the ſhortneſſe of their dayes. Amongſt all thoſe that reign'd over the people of God, there was none but <hi>David</hi> that lived 70 yeers: none of the reſt reach'd that age. O ye Kings, <hi>I verily have ſaid, ye are gods, yee are the children of the Higheſt; Neverthe<g ref="char:EOLhyphen"/>leſſe, ye ſhall die like men,</hi> and fall as ſoon as any other.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. The peoples duty towards their Kings, and themſelves.</head>
+               <p>Now let us ſpeak of the people: and here I put a Queſtion: Wherefore our Lord commanding (<hi>Mat.</hi> 22.21) to ren<g ref="char:EOLhyphen"/>der to God and <hi>Ceſar</hi> what to them be<g ref="char:EOLhyphen"/>longs, mentions in the firſt place the dues toward <hi>Ceſar,</hi> before the duties ap<g ref="char:EOLhyphen"/>pertaining to God? Wee know full
+<pb n="14" facs="tcp:61351:8"/>well, that Gods intereſt is to have the precedency before any whatſoever of Kings: ſome diſtinction notwithſtand<g ref="char:EOLhyphen"/>ing muſt be made herein.</p>
+               <p n="1">1. Through all the inward and ſe<g ref="char:EOLhyphen"/>cret inclinations of the ſoul, our affecti<g ref="char:EOLhyphen"/>ons ought to be for God rather then a<g ref="char:EOLhyphen"/>ny creature whatſoever: in this reſpect we muſt fear God before wee honour the King, 1 <hi>Pet.</hi> 2.17. Yet are there ma<g ref="char:EOLhyphen"/>ny externall acts, which though they may have a reference to the ſervice of God, ought ſometime onely to follow after thoſe that we owe to man: So he that will offer ſacrifice, and is at ods with his brother, muſt let alone his ob<g ref="char:EOLhyphen"/>lation, and agree firſt with him.</p>
+               <p n="2">2. The chiefeſt graces give the leſſer leave to work firſt in matters of this nature; and commonly all graces begin from the inferiour functions. To give almes is a more excellent work then to pay a debt; nevertheleſſe upon juſt de<g ref="char:EOLhyphen"/>mand, the payment of the debt ought to precede the giving of alms; and Ju<g ref="char:EOLhyphen"/>ſtice goes before Charity, although this
+<pb n="15" facs="tcp:61351:8"/>laſt be the greater grace. In Charity it ſelf, to love our enemy is a far greater gift, then to love our friend: neverthe<g ref="char:EOLhyphen"/>leſſe, in a like ſtraight and exigency of them both, benevolence toward a friend ought to take place.</p>
+               <p n="3">3. Under colour of Gods right ma<g ref="char:EOLhyphen"/>ny Jews made ſcruple to pay tribute to <hi>Ceſar:</hi> But our Lord approving of both the duties, mentioned that firſt whereof they made doubt, and propo<g ref="char:EOLhyphen"/>ſed the queſtion to him.</p>
+               <p>This Soveraign Lord God hath fur<g ref="char:EOLhyphen"/>ther manifeſted, even by his own ex<g ref="char:EOLhyphen"/>ample, what eſteem we ought to have of Royalty: Many times hee hath ſo far favoured ſome certain perſons, as to offer them their choice of divers things that concerned them; but never gave he this priviledge ſave to Kings. We finde four of them that had this prero<g ref="char:EOLhyphen"/>gative; <hi>David,</hi> to whom it was permit<g ref="char:EOLhyphen"/>ted to chuſe one of the three judgments that were propounded to him. <hi>Solomon,</hi> who amidſt ſo many bleſſings that a Monarch could deſire, had permiſſion
+<pb n="16" facs="tcp:61351:9"/>to chuſe, and promiſe to obtain what he ſhould ask. <hi>Ahaz,</hi> who had order to ask what miracle he pleaſed, either in heaven or earth. <hi>Ezekiah,</hi> to whom was offered the election of two great wonders; <hi>viz.</hi> that the ſhadow of the Diall ſhould leap forward, or return backward ten degrees in equal diſtance. 'Tis a ſpeciall favour when God pre<g ref="char:EOLhyphen"/>ſents the choice to men: But this hee never did yet except to Kings onely. And by this ſingular priviledge he hath declared the account that men ſhould make of their juſt deſires.</p>
+               <p>Let's here touch another remarkable Point: When God was minded to o<g ref="char:EOLhyphen"/>verthrow the Jewiſh State, the firſt act of his juſtice was to remove their Kings. We know that this people had alſo both Prophets and Prieſts: but God took not from them theſe lights all at once. He begins with the Regal power, which was wholly extinct and ſuppreſt in <hi>Zedekias,</hi> that was their laſt King; they had ſtill Prophets, yea, af<g ref="char:EOLhyphen"/>ter their return from Captivity: but
+<pb n="17" facs="tcp:61351:9"/>ſoon after God took away their Pro<g ref="char:EOLhyphen"/>pheſie likewiſe, and nothing was left them but a corrupt Prieſthood, that in its time was alſo aboliſhed. So that it is evident, the ruine of their State a<g ref="char:EOLhyphen"/>roſe from the ſubverſion of the Seat Royall.</p>
+               <p>I have one queſtion more: When is it that a Kingdom is in moſt danger? when the King is good and the people bad? or when both, <hi>viz.</hi> King and people are alike wicked? One would judge (at firſt ſight) that there is more likelihood, and more reaſon of ruine when both are evill, then when one of the two is good: The contrary, not<g ref="char:EOLhyphen"/>withſtanding, falls out ſometimes, and we are able to bring inſtance of it. A man may very well report here what is obſerved of <hi>Hoſeah</hi> the laſt King of the ten Tribes, (2 <hi>King.</hi> 17.2, <hi>&amp;c.</hi>) <hi>viz.</hi> that the Text ſaith of him, that hee <hi>ſinned not ſo much as the Kings his Predeceſſors had done:</hi> and yet in the dayes of this Prince (the leſſe blameable of all thoſe that had ſwayed the Scepter before
+<pb n="18" facs="tcp:61351:10"/>him) the people were carried away priſoners into <hi>Aſſyria,</hi> whence they ne<g ref="char:EOLhyphen"/>ver more returned, and the Kingdome was laid in the duſt, that had ſtood and endured ſo long under the Domi<g ref="char:EOLhyphen"/>nion of ſo many wicked Kings: Why did not this finall deſolation befall it under <hi>Jeroboam,</hi> authour of the idola<g ref="char:EOLhyphen"/>trous golden Calves? Or under the deteſtable and bloudy <hi>Ahab,</hi> that brought in Baaliſme, and maſſacred the Prophets? The Hebrews render ſome reaſon for it. When the King is evill (ſay they) the people have ſome pretence to be ſo too: For the great<g ref="char:EOLhyphen"/>neſſe of ſuch an example, the naughty influences of a depraved Court, the incitements it yeeldeth to do evill, the diſgraces and diſcountenances that it puts upon good men, bring the world to that paſſe, that it is a fault to be without fault. But when the King is good, the wickedneſſe of the people hath no excuſe: but on the contrary, they are ſo much the more condemn<g ref="char:EOLhyphen"/>able, and liable to greater puniſhment.
+<pb n="19" facs="tcp:61351:10"/>But oh, how happy is that Kingdom, where the King and his People are u<g ref="char:EOLhyphen"/>nited in goodneſſe! Oh how precious and odoriferous is that oyl which de<g ref="char:EOLhyphen"/>ſcends from the head to the feet!</p>
+               <p>For the remainder, I will not here handle again the Queſtion wee treated of not long ſince, concerning two par<g ref="char:EOLhyphen"/>ties that make war one upon another; <hi>viz.</hi> if it be alwayes true, that one is alwayes in the right, the other in the wrong: it often happens, that both are in the wrong in divers reſpects. In the War between <hi>Abimelech</hi> and the Sechemites, both ſides were faulty, and God deſtroyed the one by the o<g ref="char:EOLhyphen"/>ther, <hi>Judg.</hi> 9. often alſo hee that is in the wrong, thinks hee hath good title. In this War of <hi>David</hi> upon the Tribes, if God had not decided the ſtrife, would not any man living have ſaid, that the right had been on the peoples ſide? <hi>David</hi> for title of his Royalty, alledged that he was annoynted by the hand of <hi>Samuel.</hi> The Tribes that were willing to continue the Crown in the
+<pb n="20" facs="tcp:61351:11"/>houſe of <hi>Saul,</hi> pleaded <hi>Saul</hi>'s unction, his inſtalling in the Royal Throne per<g ref="char:EOLhyphen"/>formed by the hand of the ſame Pro<g ref="char:EOLhyphen"/>phet, not onely in private, as was the unction of <hi>David,</hi> but in the preſence of all the States of the Kingdom, after he had been choſen of God, and by him recommended to the people. Beſides, might they not have ſtood upon the many yeers of <hi>Saul</hi>'s Reign, and his Fa<g ref="char:EOLhyphen"/>mily in poſſeſſion of the Garland? Doth not all this, I ſay, ſeem to con<g ref="char:EOLhyphen"/>demn <hi>David</hi>'s claim, and juſtifie the arms of the adverſe party?</p>
+               <p>But to conclude, Put caſe the right be all on one ſide; ſhall the ſword devour continually? O doleful ſword! How long ſhall it hold? do wee not know that the fruits of War are bitter, even to the Conquerours themſelves? Shall we never be glutted with eating bread kneaded in tears, and tempered with humane blood? For the Countries are all bedew'd with blood, and all our channels run over with it, as wel as did ſometime thoſe of <hi>Egypt;</hi> our cups are
+<pb n="21" facs="tcp:61351:11"/>full of it, and our drink is nothing but horrour: all the veins of the body of this State are open; from the ſoale of the foot unto the top of the crown, there is nothing but black and blue, bruiſes and bloud-ſhot; ſhe is ſtretch<g ref="char:EOLhyphen"/>ed out at length upon the aſhes that our combuſtions and firings have left; her heart is quaſh'd, hardly panting between life and death: with a dy<g ref="char:EOLhyphen"/>ing eye ſhee looks about, if there be any will have pity upon her wounds. O King, and yee Ancients of <hi>Iſrael,</hi> how many ſouls this day conjure you with tears of bloud (which would move the very rocks themſelves) and that by the holy bowels of Chriſt, that you would put ſome end to theſe calamities! Let then the Heads of <hi>Iſrael</hi> go tell their King, Behold, wee are thy fleſh, and thy bones; Thou and wee together, let's ſtanch this bloud, quench this fire, and remove theſe pitifull ruines: let's reſtore to the Church its luſtre, to the Lawes their vigour; to the Common-weal
+<pb n="22" facs="tcp:61351:12"/>an happy peace. Let both ſides en<g ref="char:EOLhyphen"/>deavour to out-goe one another in benignitie, ſinceritie and pietie. Let all ambitious aimes, private intereſts, ſiniſter reſpects, cunning wiles, and fraudulent deſignes be far apart from this Meeting. When they ſhall treat thus on both ſides, will it be matter of difficulty (think you) to finde means of agreement? The higheſt moun<g ref="char:EOLhyphen"/>tains will ſtoop, and become plains before you; the loweſt valleys ſhall be filled, and this great gulf which ſevers both ſides, ſhall be levelled, that both may come together into one.</p>
+               <p>Now let us call upon the God of heaven, that hee would be pleaſed to come and take his place betwixt the King and the Ancients of <hi>Iſrael,</hi> as Judge of their Treatie, Moderatour and Decider of their differences. If wee be not enemies to our ſelves, if wee have not ſworn our own utter ru<g ref="char:EOLhyphen"/>ine, if wee do not take pleaſure in
+<pb n="23" facs="tcp:61351:12"/>periſhing, Mercie yet and Truth ſhall meet one another, Righteouſneſſe and Peace ſhall mutually kiſſe; Truth ſhall bud forth out of the earth, and Righteouſneſſe ſhall look down from heaven.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
